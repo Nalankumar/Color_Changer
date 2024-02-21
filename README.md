@@ -3,4 +3,5 @@ Color changer is a simple application which change the background color whenever
 
 ## Technologies used
  - HTML
- - CSS
+ - Bootstrap
+ - Javascript
